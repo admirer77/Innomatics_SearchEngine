@@ -53,5 +53,5 @@ Ensure you have the following installed:
 
 Due to its size, the database file cannot be provided on GitHub. If you need the database, please contact us at [your email or preferred communication channel] and we'll be happy to assist you.
 
-[LinkedIn](www.linkedin.com/in/nehanth77/) 
-[LinkedIn](www.linkedin.com/in/perika-nikhil-10b400266)
+[LinkedIn](https://www.linkedin.com/in/nehanth77/) 
+[LinkedIn](https://www.linkedin.com/in/perika-nikhil-10b400266)
