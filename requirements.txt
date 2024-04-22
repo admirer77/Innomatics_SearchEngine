@@ -1,0 +1,7 @@
+numpy
+pandas
+nltk
+collections
+chromadb
+re
+streamlit
