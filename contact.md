@@ -1,2 +1,2 @@
-- [LinkedIn](https://www.linkedin.com/in/nehanth77/) 
-- [LinkedIn](https://www.linkedin.com/in/perika-nikhil-10b400266)
+- Nehanth : [LinkedIn](https://www.linkedin.com/in/nehanth77/) 
+- Nikhil : [LinkedIn](https://www.linkedin.com/in/perika-nikhil-10b400266)
