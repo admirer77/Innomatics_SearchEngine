@@ -24,13 +24,13 @@ Ensure you have the following installed:
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your-username/semantic-search-engine.git
+    git clone https://github.com/admirer77/Innomatics_SearchEngine.git
     ```
 
 2. Navigate to the project directory:
 
     ```
-    cd semantic-search-engine
+    cd Innomatics_SearchEngine
     ```
 
 3. Install dependencies:
