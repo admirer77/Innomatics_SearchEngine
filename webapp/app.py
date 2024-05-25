@@ -55,4 +55,6 @@ if (submit or st.session_state['search_state']) and re.search(r'\w+', query):
             st.download_button(
                 label="⬇️ Download Transcript", data=content, file_name=f"{selected_name}_transcript.txt", mime="text/plain",
                 help='Click on this button to download the transcript'
+#that's how we can download the previewed subtitle file
+                
             )
